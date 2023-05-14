@@ -9,12 +9,19 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.import pandas module.
+
 2.Read the required csv file using pandas .
+
 3.Import LabEncoder module.
+
 4.From sklearn import logistic regression.
+
 5.Predict the values of array.
+
 6.Calculate the accuracy, confusion and classification report by importing the required modules from sklearn.
+
 7.print the required values.
+
 8.End the program.
 
 ## Program:
